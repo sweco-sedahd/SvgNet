@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "SvgNet/3.3.5": {
+        "runtime": {
+          "SvgNet.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SvgNet/3.3.5": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
